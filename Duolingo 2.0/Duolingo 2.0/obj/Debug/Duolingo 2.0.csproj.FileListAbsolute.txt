@@ -1,0 +1,5 @@
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo 2.0.csproj.AssemblyReference.cache
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmLogin.resources
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo_2._0.Properties.Resources.resources
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo 2.0.csproj.GenerateResource.cache
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo 2.0.csproj.CoreCompileInputs.cache

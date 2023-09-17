@@ -1,0 +1,35 @@
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\obj\Debug\p.csproj.AssemblyReference.cache
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmLogin.resources
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo_2._0.Properties.Resources.resources
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\obj\Debug\p.csproj.GenerateResource.cache
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\bin\Debug\Duolingo 2.0.exe.config
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\bin\Debug\Duolingo 2.0.exe
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\bin\Debug\Duolingo 2.0.pdb
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo 2.0.exe
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo 2.0.pdb
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmCadastro.resources
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\obj\Debug\p.csproj.CopyComplete
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmEsqueciSenha.resources
+C:\Users\Joao\Documents\GitHub\laboratorioProg\5 - Projeto Bimestral\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmAtualizarSenha.resources
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo 2.0.exe
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo 2.0.pdb
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\obj\Debug\p.csproj.AssemblyReference.cache
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmAtualizarSenha.resources
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmCadastro.resources
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmConfig.resources
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmEsqueciSenha.resources
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmPrincipal.resources
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmScore.resources
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmLogin.resources
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\obj\Debug\Duolingo_2._0.Properties.Resources.resources
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\obj\Debug\p.csproj.GenerateResource.cache
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\bin\Debug\Duolingo 2.0.exe.config
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\bin\Debug\Duolingo 2.0.exe
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\bin\Debug\Duolingo 2.0.pdb
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fogar\Downloads\Projeto_Trilingo-main\Duolingo 2.0\Duolingo 2.0\obj\Debug\p.csproj.CopyComplete
